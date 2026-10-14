@@ -1,22 +1,28 @@
-## Hi there 👋
+<!-- =================================================== -->
 
-<!-- ===================== HEADER ===================== -->
+<!--          SHIVAM YADAV | PREMIUM PROFILE             -->
+
+<!-- =================================================== -->
 
 <div align="center">
 
-# Hey, I'm Shivam Yadav 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0F172A,100:2563EB&text=SHIVAM%20YADAV&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20IN%20THE%20MAKING&descSize=16&descAlignY=58&animation=fadeIn" alt="Shivam Yadav Premium Banner"/>
 
-### 💻 Aspiring Software Engineer | AI Developer | Tech Enthusiast
+<br/>
 
-Building ideas into reality through code. 🚀
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;AI+%26+Full-Stack+Developer;Building+Ideas+Into+Reality;Learning+Something+New+Every+Day" alt="Animated Introduction"/>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Exploring+Artificial+Intelligence;Full+Stack+Web+Development;Learning+Something+New+Every+Day" alt="Typing SVG" />
-</p>
+<br/><br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<a href="https://github.com/shiv-markLV">
+<img src="https://img.shields.io/badge/GitHub-shiv--markLV-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-1D4ED8?style=for-the-badge&logo=openai&logoColor=white" alt="AI Focus"/>
+<img src="https://img.shields.io/badge/Mindset-Always%20Learning-065F46?style=for-the-badge&logo=target&logoColor=white" alt="Learning Mindset"/>
+
+<br/><br/>
+
+**Engineering ideas. Writing code. Building the future.**
 
 </div>
 
@@ -24,78 +30,167 @@ Building ideas into reality through code. 🚀
 
 ## 👨‍💻 About Me
 
-* 🎓 I'm a B.Tech student passionate about technology.
-* 🚀 Working towards becoming a Software Engineer.
-* 🤖 Exploring Artificial Intelligence and automation.
-* 🌐 Interested in full-stack web development.
-* 🛠️ Building projects to solve real-world problems.
-* 📚 Learning, experimenting, and improving every day.
-* 🎯 My goal is to build useful products and become a better developer.
+```python
+class ShivamYadav:
+    def __init__(self):
+        self.name = "Shivam Yadav"
+        self.role = "B.Tech Student"
+        self.goal = "Software Engineer"
+        self.interests = [
+            "Artificial Intelligence",
+            "Full-Stack Development",
+            "Automation",
+            "Problem Solving"
+        ]
+        self.current_focus = [
+            "Building real-world projects",
+            "Learning new technologies",
+            "Improving coding skills"
+        ]
+
+    def mindset(self):
+        return "Learn. Build. Improve. Repeat."
+
+
+shivam = ShivamYadav()
+print(shivam.mindset())
+```
+
+I'm a B.Tech student passionate about software engineering, artificial intelligence, and modern web technologies.
+
+I enjoy turning ideas into practical applications, experimenting with new tools, and learning how technology can solve real-world problems.
+
+* 🎓 Pursuing B.Tech
+* 💻 Aspiring Software Engineer
+* 🤖 Exploring AI and intelligent automation
+* 🌐 Interested in full-stack web development
+* 🛠️ Building projects to strengthen my skills
+* 🚀 Working towards becoming a better developer every day
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ Tech Stack
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" alt="Programming Languages"/>
 </p>
 
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind" alt="Web Development" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi,tailwind" alt="Web Development Technologies"/>
 </p>
 
-### 🗄️ Databases & Backend
+### 🗄️ Database & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase,fastapi" alt="Databases and Backend" />
+<img src="https://skillicons.dev/icons?i=mongodb,supabase" alt="Database Technologies"/>
 </p>
 
-### ⚙️ Tools & Platforms
+### 🛠️ Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Developer Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Developer Tools"/>
 </p>
+
+### 🧠 Areas of Interest
+
+`Artificial Intelligence` · `Voice Assistants` · `API Development` · `Web Applications` · `Automation`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Nyra AI — Personal AI Assistant
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An AI assistant project designed to make everyday computer interactions easier.
+<h3>🤖 Nyra AI</h3>
 
-* 🎙️ Voice interaction and speech recognition.
-* 🗣️ Text-to-speech responses.
-* 🖥️ Desktop application integration.
-* ⚡ Exploring intelligent automation.
+**Personal AI Assistant**
 
-**Technologies:** Python, Whisper, Vosk, Edge TTS, PySide6.
+An AI assistant project exploring voice interaction, speech recognition, conversational responses, and desktop automation.
 
-### 🛒 VillageMart — Local Shopping Platform
+**Highlights**
 
-A quick-commerce platform concept designed to connect local sellers with customers.
+* 🎙️ Speech recognition
+* 🗣️ Text-to-speech responses
+* 🖥️ Desktop application integration
+* ⚡ Automation experiments
 
-* 🛍️ Product listings and shopping cart.
-* 🏪 Local seller support.
-* 📦 Order management.
-* 💳 Exploring digital payment integration.
+**Tech Stack**
 
-**Technologies:** Next.js, React, Supabase, JavaScript.
+`Python` `Whisper` `Vosk` `PySide6`
 
-### 🗺️ Smart Tourism — Explore India
+<!-- Add your Nyra AI repository link here -->
 
-A smart tourism platform concept for discovering destinations and planning trips.
+</td>
+<td width="50%" valign="top">
 
-* 🧭 AI-powered trip planning concept.
-* 🗺️ Interactive maps.
-* 🏛️ Heritage and destination exploration.
-* 📍 Discovering hidden gems.
+<h3>🛒 VillageMart</h3>
 
-**Technologies:** JavaScript, React, Leaflet, Three.js.
+**Local Commerce Platform**
+
+A quick-commerce platform concept designed to connect local sellers with customers through an online shopping experience.
+
+**Highlights**
+
+* 🛍️ Product listings
+* 🛒 Shopping cart
+* 🏪 Local seller support
+* 📦 Order management
+
+**Tech Stack**
+
+`Next.js` `React` `Supabase`
+
+<!-- Add your VillageMart repository link here -->
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🗺️ Smart Tourism</h3>
+
+**Explore India Intelligently**
+
+A smart tourism project concept focused on destination discovery, interactive maps, heritage information, and AI-assisted trip planning.
+
+**Highlights**
+
+* 🧭 Trip planning concept
+* 🗺️ Interactive maps
+* 🏛️ Heritage exploration
+* 📍 Destination discovery
+
+**Tech Stack**
+
+`JavaScript` `Leaflet` `Three.js`
+
+<!-- Add your Smart Tourism repository link here -->
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚀 What's Next?</h3>
+
+**Building Better Software**
+
+Exploring new ideas and developing projects that combine software engineering with practical problem-solving.
+
+**Current Goals**
+
+* 🧩 Improve problem-solving skills
+* 🌐 Build better web applications
+* 🤖 Experiment with AI tools
+* 🌱 Contribute to open source
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -103,68 +198,74 @@ A smart tourism platform concept for discovering destinations and planning trips
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shiv-markLV&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=E5E7EB&rank_icon=github" alt="Shivam's GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv-markLV&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E5E7EB" alt="Most Used Programming Languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shiv-markLV&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
 
 </div>
+
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shiv-markLV&bg_color=0D1117&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Activity"/>
 
 </div>
 
 ---
 
-## 🎯 My Goals
+## 🎯 My Roadmap
 
-* [ ] Strengthen my Data Structures and Algorithms skills.
-* [ ] Build real-world full-stack applications.
-* [ ] Develop more AI-powered projects.
-* [ ] Contribute to open-source projects.
-* [ ] Improve software engineering fundamentals.
-* [ ] Work towards opportunities at leading technology companies.
-
----
-
-## 🌱 My Developer Mindset
-
-> Learn continuously. Build consistently. Improve every day.
-
-I believe that every project is an opportunity to learn something new. My journey is just beginning, and I'm excited to see what I can build next.
+* [ ] Strengthen Data Structures and Algorithms
+* [ ] Master core software engineering fundamentals
+* [ ] Build production-ready full-stack applications
+* [ ] Develop useful AI-powered tools
+* [ ] Contribute to open-source projects
+* [ ] Collaborate with developers worldwide
+* [ ] Prepare for software engineering opportunities
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+## 💡 My Philosophy
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### "Dream in ideas. Build with code. Grow through consistency."
 
-**Keep Learning. Keep Building. Keep Growing. 🚀**
+I believe every project is an opportunity to learn, every challenge is an opportunity to improve, and every line of code brings me one step closer to my goals.
+
+**My journey is just beginning. 🚀**
 
 </div>
-<!--
-**shiv-markLV/shiv-markLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/shiv-markLV">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<!-- Replace the LinkedIn URL below with your actual profile -->
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0F172A,100:020617&height=120&section=footer" width="100%" alt="Footer Banner"/>
+
+**Thanks for visiting my profile!**
+
+⭐ *Keep Learning. Keep Building. Keep Growing.*
+
+</div>
